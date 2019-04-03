@@ -1,0 +1,11 @@
+/Users/mini2017/Documents/unitywork/MacProject/ExcelToLua/ExcelToLua/bin/Debug/netcoreapp2.1/ExcelToLua.deps.json
+/Users/mini2017/Documents/unitywork/MacProject/ExcelToLua/ExcelToLua/bin/Debug/netcoreapp2.1/ExcelToLua.runtimeconfig.json
+/Users/mini2017/Documents/unitywork/MacProject/ExcelToLua/ExcelToLua/bin/Debug/netcoreapp2.1/ExcelToLua.runtimeconfig.dev.json
+/Users/mini2017/Documents/unitywork/MacProject/ExcelToLua/ExcelToLua/bin/Debug/netcoreapp2.1/ExcelToLua.dll
+/Users/mini2017/Documents/unitywork/MacProject/ExcelToLua/ExcelToLua/bin/Debug/netcoreapp2.1/ExcelToLua.pdb
+/Users/mini2017/Documents/unitywork/MacProject/ExcelToLua/ExcelToLua/obj/Debug/netcoreapp2.1/ExcelToLua.csproj.CoreCompileInputs.cache
+/Users/mini2017/Documents/unitywork/MacProject/ExcelToLua/ExcelToLua/obj/Debug/netcoreapp2.1/ExcelToLua.AssemblyInfoInputs.cache
+/Users/mini2017/Documents/unitywork/MacProject/ExcelToLua/ExcelToLua/obj/Debug/netcoreapp2.1/ExcelToLua.AssemblyInfo.cs
+/Users/mini2017/Documents/unitywork/MacProject/ExcelToLua/ExcelToLua/obj/Debug/netcoreapp2.1/ExcelToLua.dll
+/Users/mini2017/Documents/unitywork/MacProject/ExcelToLua/ExcelToLua/obj/Debug/netcoreapp2.1/ExcelToLua.pdb
+/Users/mini2017/Documents/unitywork/MacProject/ExcelToLua/ExcelToLua/obj/Debug/netcoreapp2.1/ExcelToLua.csprojAssemblyReference.cache
